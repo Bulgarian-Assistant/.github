@@ -5,7 +5,7 @@
 
   <img src="https://github.com/user-attachments/assets/817a2014-e854-4a09-b40e-8b091ef620f5" width="300"><br><br>
 
-  <a href="https://discord.com/application-directory/1276797546018377728">Click to install</a>
+  <a href="https://discord.com/discovery/applications/1433901865505919108">Click to install</a>
 </div>
 
 ---
